@@ -1,9 +1,10 @@
 #include <iostream>
+#include "../includes/globals.hpp"
 
 using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    /* code */
+    cout << "From main.exe, " << STRING_HELLO << endl;
     return 0;
 }
