@@ -1,0 +1,3 @@
+/mnt/v/Code/Practices/Learning_bashScript/CMakeFiles/main.exe.dir
+/mnt/v/Code/Practices/Learning_bashScript/CMakeFiles/edit_cache.dir
+/mnt/v/Code/Practices/Learning_bashScript/CMakeFiles/rebuild_cache.dir

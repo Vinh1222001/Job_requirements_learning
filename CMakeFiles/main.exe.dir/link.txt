@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.exe.dir/srcs/global.c.o CMakeFiles/main.exe.dir/srcs/main.c.o -o main.exe 
