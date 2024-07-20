@@ -6,7 +6,7 @@ run: main.exe
 
 main.exe: main.cpp globals.hpp
 	@echo "findout main.cpp"
-	@g++ $^ -o $@
+	@$(CXX) $^ -o $@
 
 .PHONY: clean
 clean:
